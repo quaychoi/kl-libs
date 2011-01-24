@@ -1,0 +1,35 @@
+EESchema-DOCLIB  Version 2.0  Date: 23/07/2010 18:43:19
+#
+$CMP 2N7002
+D N-channel SOT-23 0.115A 60V
+$ENDCMP
+#
+$CMP IRLML6302
+D P-channel SOT-23 0.5A 20V
+$ENDCMP
+#
+$CMP IRLMS1503
+D N-channel SOT-23-6 3.2A 30V
+$ENDCMP
+#
+$CMP IRLMS6702
+D P-channel SOT-23-6 2.4A 20V
+$ENDCMP
+#
+$CMP MAX2602
+D RF power NPN w\diode 1W 15V
+$ENDCMP
+#
+$CMP NPN
+D Generic NPN
+$ENDCMP
+#
+$CMP P_Channel_SO8
+D P-channel SO-8
+$ENDCMP
+#
+$CMP Photo
+D Phototransistor, isolated base
+$ENDCMP
+#
+#End Doc Library

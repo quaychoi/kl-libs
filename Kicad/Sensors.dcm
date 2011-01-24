@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: 15/12/2009 01:09:16
+#
+$CMP IRA700
+D Piroelectric sensor
+$ENDCMP
+#
+$CMP MMA7455
+D Accelerometer I2C 8G 3Axis
+$ENDCMP
+#
+$CMP QT100A
+D Touch sensor, 1 channel
+$ENDCMP
+#
+#End Doc Library

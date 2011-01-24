@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: 12/11/2010 17:07:53
+#
+$CMP SIM_HOLDER
+D Sim-card holder
+$ENDCMP
+#
+$CMP SMARTCARD
+D SmartCard
+$ENDCMP
+#
+#End Doc Library

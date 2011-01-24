@@ -1,0 +1,96 @@
+EESchema-DOCLIB  Version 2.0  Date: 20/01/2011 22:56:34
+#
+$CMP AAT3221
+D SOT23-5 linear regulator
+F D:/MyDocuments/Инструкции/Datasheets/Power/AAT3221IGV-3.3-T1.pdf
+$ENDCMP
+#
+$CMP BAT
+D Battery
+$ENDCMP
+#
+$CMP HV9910
+D Buck LED driver, ext FET 8-450V
+$ENDCMP
+#
+$CMP IPS6041
+D Intelligent power switch with diag out (current limit 7A)
+$ENDCMP
+#
+$CMP LD1117
+D SOT223 linear regulator
+F D:/Мои документы/Инструкции/datasheets/Power/LD1117S33.pdf
+$ENDCMP
+#
+$CMP LIR2032
+D 2032-size LiIon acb
+F D:/MyDocuments/Инструкции/Datasheets/Аккумуляторы/LIR2032.pdf
+$ENDCMP
+#
+$CMP LM2703
+D SOT23-5 Step-Up DC/DC Converter
+F D:/MyDocuments/Инструкции/Datasheets/Power/LM2703 2.2 to ~20.pdf
+$ENDCMP
+#
+$CMP LM338
+D Linear, up to +35in, adj.out, 5A, TO220
+$ENDCMP
+#
+$CMP LM3410
+D SOT23-5 LED booster, no external FET needed
+$ENDCMP
+#
+$CMP LP2981
+D SOT23-5 linear regulator
+F D:/MyDocuments/Инструкции/Datasheets/Power/AAT3221IGV-3.3-T1.pdf
+$ENDCMP
+#
+$CMP LTC4054
+D LiIon battery charger SOT23-5 upto700mA R-programmable
+$ENDCMP
+#
+$CMP MAX1555
+D SOT23-5 linear LiIon charger
+F D:/MyDocuments/Инструкции/Datasheets/Power/MAX1555EZK.pdf
+$ENDCMP
+#
+$CMP MAX712
+D NiCd & NiMH charger
+K Charger
+$ENDCMP
+#
+$CMP MAX8881
+D LDO 3.3V 200mA Icc 3.5uA
+$ENDCMP
+#
+$CMP MC34063
+D Universal converter (up, down, inverting) up to 1.5A
+$ENDCMP
+#
+$CMP NCP3066
+D LED switching regulator BUCK and BOOST, SO8
+$ENDCMP
+#
+$CMP STCS1
+D LED driver 1.5A 24V
+$ENDCMP
+#
+$CMP TPS71533
+D LDO 3.3V 50mA up to 24V; Iq=3.2uA
+$ENDCMP
+#
+$CMP TPS76350
+D 5.0V SOT23-5 linear regulator
+F D:/MyDocuments/Инструкции/Datasheets/Power/TPS76350.pdf
+$ENDCMP
+#
+$CMP TPS763xx
+D SOT23-5 linear regulator
+F D:/MyDocuments/Инструкции/Datasheets/Power/AAT3221IGV-3.3-T1.pdf
+$ENDCMP
+#
+$CMP ZXSC400
+D Step-up LED driver, ext. transistor, 3.0-4.5V input, up to 8 LEDs
+$ENDCMP
+#
+#End Doc Library

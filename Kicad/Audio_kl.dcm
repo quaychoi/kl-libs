@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: 16/01/2011 18:06:15
+#
+$CMP TPA6211
+D Mono power amplifier 2.5-5.5V 3W
+$ENDCMP
+#
+$CMP VS1003
+D MP3 decoder
+$ENDCMP
+#
+#End Doc Library

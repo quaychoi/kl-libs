@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: 23/01/2011 20:29:07
+#
+$CMP ADS1100
+D 16bit ADC, SOT23, 8SPS (128SPS@12bit), I2C
+$ENDCMP
+#
+$CMP ADS8320
+D 16bit ADC, MSOP8, 100kSPS), SPI
+$ENDCMP
+#
+#End Doc Library
