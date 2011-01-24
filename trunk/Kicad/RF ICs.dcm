@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0  Date: 17/01/2011 01:56:14
+#
+$CMP BH1415
+D FM stereo transmitter
+$ENDCMP
+#
+$CMP CC1101
+D Tranceiver 300-915MHz
+$ENDCMP
+#
+$CMP CC2500
+D 2.4 GHz tranciever
+$ENDCMP
+#
+$CMP HMC482
+D Gain block DC-5GHz 6-12V 19dB 24dBm
+$ENDCMP
+#
+$CMP SI4432MODULE
+D RF22-S1 module
+$ENDCMP
+#
+$CMP UPG2214
+D RF switch 1-to-2, 0.3dB attenuation, +29dBm power
+$ENDCMP
+#
+#End Doc Library

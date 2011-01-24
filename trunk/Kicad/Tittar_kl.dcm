@@ -1,0 +1,76 @@
+EESchema-DOCLIB  Version 2.0  Date: 23/01/2011 21:12:54
+#
+$CMP ANT_SMD
+D SMD-soldered antenna
+$ENDCMP
+#
+$CMP BAR43A
+D Two diodes, common anode, SOT23
+F D:/MyDocuments/Инструкции/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
+$ENDCMP
+#
+$CMP BAR43C
+D Two diodes, common catode, SOT23
+F D:/MyDocuments/Инструкции/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
+$ENDCMP
+#
+$CMP C
+D Capacitor
+$ENDCMP
+#
+$CMP CP
+D Polarized capacitor
+$ENDCMP
+#
+$CMP CRYSTAL_H
+D Crystal with housing to solder
+$ENDCMP
+#
+$CMP CT
+D Trimmer capacitor
+$ENDCMP
+#
+$CMP D_Shottky
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP DIODE
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP LED_2COLOR
+D Two-color LED, common catode
+$ENDCMP
+#
+$CMP MOTOR
+D Motor in general
+$ENDCMP
+#
+$CMP PESD1CAN
+D ESD-protection SOT23 2-Channel
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP RELAY_DPDT
+D Relay with double switching contacts
+$ENDCMP
+#
+$CMP RVar
+D Variable resistor
+$ENDCMP
+#
+$CMP SWITCH
+D Switch
+$ENDCMP
+#
+$CMP Zener
+D Zener diode
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,85 @@
+EESchema-DOCLIB  Version 2.0  Date: 23/01/2011 21:22:43
+#
+$CMP ATMEL_JTAG
+D JTAG conn for ATMEL
+$ENDCMP
+#
+$CMP BARREL_SOCKET
+D Power connector socket
+$ENDCMP
+#
+$CMP CONN_1
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_16
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_2
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_24x0.5
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_3
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_4
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_5
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_6
+D 6-pin connector
+K CONN
+$ENDCMP
+#
+$CMP CONN_7
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_8
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP DB15
+D DB15 connector
+$ENDCMP
+#
+$CMP DB9
+D DB9 connector
+$ENDCMP
+#
+$CMP PwrConn
+D 2-pin power connector
+$ENDCMP
+#
+$CMP SMA_L
+D SMA RF inlet, 90dg to PCB
+$ENDCMP
+#
+$CMP TRS_3.5_SOCKET
+D Audio receptacle 3.5mm
+$ENDCMP
+#
+$CMP USB_AM_PCB
+D USB-A male plug, PCB-mount
+$ENDCMP
+#
+#End Doc Library
