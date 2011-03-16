@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 23/01/2011 21:12:54
+EESchema-DOCLIB  Version 2.0  Date: 15/03/2011 17:59:01
 #
 $CMP ANT_SMD
 D SMD-soldered antenna
@@ -12,6 +12,10 @@ $ENDCMP
 $CMP BAR43C
 D Two diodes, common catode, SOT23
 F D:/MyDocuments/Инструкции/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
+$ENDCMP
+#
+$CMP BUTTON
+D General button symbol
 $ENDCMP
 #
 $CMP C
@@ -30,7 +34,7 @@ $CMP CT
 D Trimmer capacitor
 $ENDCMP
 #
-$CMP D_Shottky
+$CMP D_SHOTTKY
 D Diode simple
 K DEV DIODE
 $ENDCMP
@@ -61,7 +65,7 @@ $CMP RELAY_DPDT
 D Relay with double switching contacts
 $ENDCMP
 #
-$CMP RVar
+$CMP RVAR
 D Variable resistor
 $ENDCMP
 #
@@ -69,7 +73,7 @@ $CMP SWITCH
 D Switch
 $ENDCMP
 #
-$CMP Zener
+$CMP ZENER
 D Zener diode
 $ENDCMP
 #
