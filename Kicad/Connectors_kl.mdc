@@ -1,4 +1,4 @@
-PCBNEW-LibDoc----V1  15/03/2011 17:53:14
+PCBNEW-LibDoc----V1  17/03/2011 13:06:14
 #
 $MODULE DIL2x5
 Li DIL2x5
@@ -70,6 +70,11 @@ $MODULE DIL2x4
 Li DIL2x4
 Cd Double rangee de contacts 2 x 4 pins
 Kw CONN
+$EndMODULE
+#
+$MODULE DIL2X3_SMD
+Li DIL2X3_SMD
+Cd Single-line connector 4-pin
 $EndMODULE
 #
 $EndLIBDOC
