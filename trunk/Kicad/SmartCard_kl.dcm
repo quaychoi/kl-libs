@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 12/11/2010 17:07:53
+EESchema-DOCLIB  Version 2.0  Date: 21/03/2011 16:06:53
+#
+$CMP SC_QFN32
+D SmartCard
+$ENDCMP
 #
 $CMP SIM_HOLDER
 D Sim-card holder
