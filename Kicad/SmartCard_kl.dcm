@@ -1,10 +1,14 @@
-EESchema-DOCLIB  Version 2.0  Date: 04/04/2011 22:46:57
+EESchema-DOCLIB  Version 2.0  Date: 05/04/2011 17:20:49
 #
 $CMP SC_QFN32
 D SmartCard
 $ENDCMP
 #
 $CMP SC_QFN32_NFC
+D SmartCard
+$ENDCMP
+#
+$CMP SC_SSOP20_NFC
 D SmartCard
 $ENDCMP
 #
