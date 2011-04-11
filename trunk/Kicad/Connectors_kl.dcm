@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 17/03/2011 13:07:10
+EESchema-DOCLIB  Version 2.0  Date: 11/04/2011 15:48:43
 #
 $CMP ATMEL_JTAG
 D JTAG conn for ATMEL
@@ -77,6 +77,10 @@ $ENDCMP
 #
 $CMP SMA_L
 D SMA RF inlet, 90dg to PCB
+$ENDCMP
+#
+$CMP ST_SWD
+D ST SWD connector
 $ENDCMP
 #
 $CMP TRS_3.5_SOCKET
