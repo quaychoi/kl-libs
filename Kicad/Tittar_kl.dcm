@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 15/03/2011 17:59:01
+EESchema-DOCLIB  Version 2.0  Date: 11/04/2011 21:45:23
 #
 $CMP ANT_SMD
 D SMD-soldered antenna
@@ -6,12 +6,12 @@ $ENDCMP
 #
 $CMP BAR43A
 D Two diodes, common anode, SOT23
-F D:/MyDocuments/Инструкции/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
 $ENDCMP
 #
 $CMP BAR43C
 D Two diodes, common catode, SOT23
-F D:/MyDocuments/Инструкции/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
 $ENDCMP
 #
 $CMP BUTTON
@@ -42,6 +42,10 @@ $ENDCMP
 $CMP DIODE
 D Diode simple
 K DEV DIODE
+$ENDCMP
+#
+$CMP GERCON
+D Germetic contact
 $ENDCMP
 #
 $CMP LED_2COLOR
