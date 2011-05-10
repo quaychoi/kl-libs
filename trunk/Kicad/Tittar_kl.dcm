@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 11/04/2011 21:45:23
+EESchema-DOCLIB  Version 2.0  Date: 06/05/2011 23:09:30
 #
 $CMP ANT_SMD
 D SMD-soldered antenna
@@ -50,6 +50,10 @@ $ENDCMP
 #
 $CMP LED_2COLOR
 D Two-color LED, common catode
+$ENDCMP
+#
+$CMP LED_RGB_CA
+D RGB LED, common anode
 $ENDCMP
 #
 $CMP MOTOR
