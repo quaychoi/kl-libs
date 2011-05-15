@@ -1,12 +1,16 @@
-EESchema-DOCLIB  Version 2.0  Date: 04/04/2011 01:06:32
+EESchema-DOCLIB  Version 2.0  Date: 15/05/2011 17:02:14
 #
 $CMP AAT3221
 D SOT23-5 linear regulator
-F D:/MyDocuments/Инструкции/Datasheets/Power/AAT3221IGV-3.3-T1.pdf
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/Datasheets/Power/AAT3221IGV-3.3-T1.pdf
 $ENDCMP
 #
 $CMP BAT
 D Battery
+$ENDCMP
+#
+$CMP BQ24010
+D LiIon linear charger, up to 1A
 $ENDCMP
 #
 $CMP HV9910
@@ -19,17 +23,17 @@ $ENDCMP
 #
 $CMP LD1117
 D SOT223 linear regulator
-F D:/Мои документы/Инструкции/datasheets/Power/LD1117S33.pdf
+F D:/РњРѕРё РґРѕРєСѓРјРµРЅС‚С‹/РРЅСЃС‚СЂСѓРєС†РёРё/datasheets/Power/LD1117S33.pdf
 $ENDCMP
 #
 $CMP LIR2032
 D 2032-size LiIon acb
-F D:/MyDocuments/Инструкции/Datasheets/Аккумуляторы/LIR2032.pdf
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/Datasheets/РђРєРєСѓРјСѓР»СЏС‚РѕСЂС‹/LIR2032.pdf
 $ENDCMP
 #
 $CMP LM2703
 D SOT23-5 Step-Up DC/DC Converter
-F D:/MyDocuments/Инструкции/Datasheets/Power/LM2703 2.2 to ~20.pdf
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/Datasheets/Power/LM2703 2.2 to ~20.pdf
 $ENDCMP
 #
 $CMP LM338
@@ -44,9 +48,13 @@ $CMP LM3410_LLP
 D LLP6 LED booster, no external FET needed
 $ENDCMP
 #
+$CMP LP2951
+D Linear, regulated output, 100mA, 30Vin, 75uA bias
+$ENDCMP
+#
 $CMP LP2981
 D SOT23-5 linear regulator
-F D:/MyDocuments/Инструкции/Datasheets/Power/AAT3221IGV-3.3-T1.pdf
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/Datasheets/Power/AAT3221IGV-3.3-T1.pdf
 $ENDCMP
 #
 $CMP LTC4054
@@ -55,7 +63,7 @@ $ENDCMP
 #
 $CMP MAX1555
 D SOT23-5 linear LiIon charger
-F D:/MyDocuments/Инструкции/Datasheets/Power/MAX1555EZK.pdf
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/Datasheets/Power/MAX1555EZK.pdf
 $ENDCMP
 #
 $CMP MAX712
@@ -85,12 +93,12 @@ $ENDCMP
 #
 $CMP TPS76350
 D 5.0V SOT23-5 linear regulator
-F D:/MyDocuments/Инструкции/Datasheets/Power/TPS76350.pdf
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/Datasheets/Power/TPS76350.pdf
 $ENDCMP
 #
 $CMP TPS763XX
 D SOT23-5 linear regulator
-F D:/MyDocuments/Инструкции/Datasheets/Power/AAT3221IGV-3.3-T1.pdf
+F D:/MyDocuments/РРЅСЃС‚СЂСѓРєС†РёРё/Datasheets/Power/AAT3221IGV-3.3-T1.pdf
 $ENDCMP
 #
 $CMP ZXSC400
