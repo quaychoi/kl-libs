@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 18/05/2011 00:27:25
+EESchema-LIBRARY Version 2.3  Date: 19/05/2011 17:14:10
 #encoding utf-8
 #
 # ATMEL_ISP
@@ -8,6 +8,7 @@ F0 "XL" -150 400 60 H V C CNN
 F1 "ATMEL_ISP" -300 0 50 V V C CNN
 $FPLIST
  DIL2X3*
+ SLOT_ISP
 $ENDFPLIST
 DRAW
 S 150 350 -250 -350 0 1 0 f
