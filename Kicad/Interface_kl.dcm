@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 23/07/2010 15:14:08
+EESchema-DOCLIB  Version 2.0  Date: 22/05/2011 23:40:05
 #
 $CMP FT232R
 D USB to RS232 converter
@@ -10,6 +10,10 @@ $ENDCMP
 #
 $CMP HIN211
 D RS232 level converter 5r 4t
+$ENDCMP
+#
+$CMP PCA9555
+D 16bit IO expander
 $ENDCMP
 #
 #End Doc Library
