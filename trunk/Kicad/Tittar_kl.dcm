@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 18/05/2011 23:00:24
+EESchema-DOCLIB  Version 2.0  Date: 23/05/2011 00:30:46
 #
 $CMP ANT_SMD
 D SMD-soldered antenna
@@ -12,6 +12,10 @@ $ENDCMP
 $CMP BAR43C
 D Two diodes, common catode, SOT23
 F D:/MyDocuments/Инструкции/Datasheets/_Discretes_/Diode dual-single BAR43xFILM.pdf
+$ENDCMP
+#
+$CMP BRIDGE
+D Diode bridge rectifier
 $ENDCMP
 #
 $CMP BUTTON
